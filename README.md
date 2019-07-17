@@ -24,6 +24,6 @@ We placed an ESP32 module on a PCB with level shifting circuitry, a 3.3V regulat
 
 Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from [Adafruit](https://www.adafruit.com)!
 
-Designed by Limor Limor Fried/Ladyada for Adafruit Industries.
+Designed by Limor Fried/Ladyada for Adafruit Industries.
 
 Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional details.
